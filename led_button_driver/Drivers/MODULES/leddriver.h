@@ -1,9 +1,4 @@
-/*
- * sensor.h
- *
- *  Created on: Mar 18, 2021
- *      Author: Numan
- */
+
 
 #ifndef MODULES_LEDDRIVER_H_
 #define MODULES_LEDDRIVER_H_
