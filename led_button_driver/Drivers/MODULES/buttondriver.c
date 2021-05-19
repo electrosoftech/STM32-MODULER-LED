@@ -1,9 +1,4 @@
-/*
- * buttondriver.c
- *
- *  Created on: Mar 18, 2021
- *      Author: Numan
- */
+
 #include "stm32f4xx_hal.h"
 
 void buttondriver_init()
